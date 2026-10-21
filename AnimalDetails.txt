@@ -1,0 +1,3 @@
+Parrot,Birdie,1,Red,1.4,0.55
+Dolphin,Buddy,6,Grey,97.0,131.0
+Penguin,Pingu,5,Black and White,13.5,10.2
